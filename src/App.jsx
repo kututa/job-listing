@@ -5,7 +5,7 @@ import HeroSection from './assets/components/HeroSection'
 import JobCards from './assets/components/JobCards'
 import JobApplicationSection from './assets/components/JobApplicationSection'
 import ContactForm from './assets/components/ContactForm'
-import Footer from './assets/components/footer'
+import Footer from "./assets/components/footer.jsx";
 
 
 function App() {
